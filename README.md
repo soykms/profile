@@ -24,5 +24,5 @@ Since I started my career as process engineer, I have been always passinated by 
 - Machine learning 
 - [Process Mining](https://en.wikipedia.org/wiki/Process_mining)
 - Advanced Statistics
-- MS Fabric
-- MS Azure 
+- Microsoft Fabric
+- Microsoft Azure 
