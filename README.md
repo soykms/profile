@@ -15,9 +15,10 @@ Since I started my career as process engineer, I have been always passinated by 
 
 # Achivements<br>
 - Manufacturing KPI BI development
-- Service Level Agreement BI BI development
-- SAP PP module migration MDM
-- Computer vision deployment for respirator capa increase during COVID 19
+- Service Level Agreement BI development
+- Unit cost Management BI development
+- SAP PP module MDM
+- Computer vision inspection for respirator capa increase during COVID 19
 
 # Currently studying on
 - Machine learning 
