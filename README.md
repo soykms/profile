@@ -17,7 +17,7 @@ Since I started my career as process engineer, I have been always passinated by 
 - Manufacturing KPI BI development
 - Service Level Agreement BI development
 - Unit cost Management BI development
-- SAP PP module MDM
+- SAP PP module Master Data Management
 - Computer vision inspection for respirator capa increase during COVID 19
 
 # Currently studying on
