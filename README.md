@@ -1,5 +1,5 @@
 # About me<br>
-Data enthusiast with a passion for BI development, data automation, data visualization, and statistical analysis with strong manufacturing domain knowledge.
+Business Analysist, Data analysist, BI Developer
 
 # Technical Skills<br>
 SQL Server PPT MS OFFICE EXCEL
