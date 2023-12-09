@@ -19,8 +19,7 @@ Since I started my career as process engineer, I have been always passinated by 
 - SAP PP module migration MDM
 - Computer vision deployment for respirator capa increase during COVID 19
 
-
 # Currently studying on
 - Machine learning 
 - [Process Mining](https://en.wikipedia.org/wiki/Process_mining)
-
+- Advanced Statistics
