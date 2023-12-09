@@ -21,7 +21,8 @@ Since I started my career as process engineer, I have been always passinated by 
 - Computer vision inspection for respirator capa increase during COVID 19
 
 # Currently studying on
-- Machine learning 
+- Machine learning
+- Anomaly detection
 - [Process Mining](https://en.wikipedia.org/wiki/Process_mining)
 - Advanced Statistics
 - Microsoft Fabric
