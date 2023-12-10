@@ -3,9 +3,9 @@
 Since I started my career as process engineer, I have been always passinated by data-driven thinking. I have experience in transforming data from various data sources into meaningfull insight, interactive dashboards and mornitoring KPIs.
 
 # Domain Skills<br>
-- Process improvement (Lean, 6sigma)
 - Data automation (IT-OT, ERP, PLC) 
 - Statistics analysis (SPC, DOE, A/B Test)
+- Process improvement (Lean, 6sigma)
 - Factory Unit Cost analysis 
 - Manufacturing KPI management (Yield, OEE, Productivity, Cost)
 
