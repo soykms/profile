@@ -18,7 +18,7 @@ Since I started my career as process engineer, I have been always passinated by 
 - Service Level Agreement BI development
 - Unit cost Management BI development
 - SAP PP module Master Data Management
-- Computer vision inspection for respirator capa increase during COVID 19
+- Computer vision inspection development
 
 # Currently studying on
 - Machine learning
