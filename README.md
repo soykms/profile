@@ -6,6 +6,7 @@ Since I started my career as process engineer, I have been always passinated by 
 - Data automation (IT-OT, ERP, PLC) 
 - Statistics analysis (SPC, DOE, A/B Test)
 - Process improvement (Lean, 6sigma)
+- Process automation
 - Factory Unit Cost analysis 
 - Manufacturing KPI management (Yield, OEE, Productivity, Cost)
 
