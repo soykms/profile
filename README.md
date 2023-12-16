@@ -27,3 +27,4 @@ Since I started my career as process engineer, I have been always passinated by 
 - Advanced Statistics
 - Microsoft Fabric
 - Microsoft Azure 
+- PLC
