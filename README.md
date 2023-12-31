@@ -25,7 +25,7 @@ Since I started my career as process engineer, I have been always passinated by 
 - Machine learning
 - Anomaly detection
 - [Process Mining](https://en.wikipedia.org/wiki/Process_mining)
-- Advanced Statistics
+- KNIME
 - Microsoft Fabric
 - Microsoft Azure 
 - PLC
