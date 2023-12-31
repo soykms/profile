@@ -27,5 +27,4 @@ Since I started my career as process engineer, I have been always passinated by 
 - [Process Mining](https://en.wikipedia.org/wiki/Process_mining)
 - KNIME
 - Microsoft Fabric
-- Microsoft Azure 
 - PLC
